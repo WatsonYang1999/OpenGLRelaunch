@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LearnOpenGL" targetName="1.getting_started__1.1.hello_window" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__2.2.basic_lighting_specular" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.1.instancing_quads" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.3.shaders_class" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.2.shadow_mapping_base" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.2.2.point_shadows_soft" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.3.textures_exercise2" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.1.cubemaps_skybox" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.2.coordinate_systems_depth" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__4.normal_mapping" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.4.light_casters_spot_soft" />
+      <config projectName="LearnOpenGL" targetName="3.model_loading__1.model_loading" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.2.deferred_shading_volumes" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__2.gamma_correction" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__1.advanced_lighting" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.1.camera_circle" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.5.textures_exercise4" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.1.ibl_irradiance_conversion" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.1.deferred_shading" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.1.light_casters_directional" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.2.asteroids" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.1.framebuffers" />
+      <config projectName="LearnOpenGL" targetName="STB_IMAGE" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__5.2.transformations_exercise2" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.2.1.ibl_specular" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.2.2.ibl_specular_textured" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__9.ssao" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.2.light_casters_point" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.1.parallax_mapping" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.1.geometry_shader_houses" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__5.1.transformations" />
+      <config projectName="LearnOpenGL" targetName="xjbx__test1" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.1.blending_discard" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__7.bloom" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.2.shaders_interpolation" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.1.depth_testing" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.2.framebuffers_exercise1" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.4.hello_triangle_exercise2" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__1.colors" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__8.advanced_glsl_ubo" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.5.hello_triangle_exercise3" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.3.parallax_occlusion_mapping" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__2.stencil_testing" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__11.anti_aliasing_offscreen" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.3.asteroids_instanced" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.3.hello_triangle_exercise1" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.1.hello_triangle" />
+      <config projectName="LearnOpenGL" targetName="7.in_practice__1.debugging" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.1.lighting_maps_diffuse_map" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.2.hello_triangle_indexed" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__3.1.materials" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__1.2.lighting_textured" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.4.textures_exercise3" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.2.textures_combined" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.3.lighting_maps_exercise4" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__6.hdr" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.4.camera_class" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.2.geometry_shader_exploding" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__1.2.hello_window_clear" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.2.depth_testing_view" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.2.steep_parallax_mapping" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.3.coordinate_systems_multiple" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__6.multiple_lights" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.3.camera_mouse_zoom" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.3.shadow_mapping" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.3.geometry_shader_normals" />
+      <config projectName="LearnOpenGL" targetName="GLAD" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.2.ibl_irradiance" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.2.1.point_shadows" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.2.lighting_maps_specular_map" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__1.1.lighting" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.1.shaders_uniform" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.1.textures" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__2.1.basic_lighting_diffuse" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.2.blending_sort" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.1.coordinate_systems" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.2.camera_keyboard_dt" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__3.2.materials_exercise1" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.3.light_casters_spot" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.1.shadow_mapping_depth" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9961ac7-5692-49e3-86e3-96a7da9de09a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YCh1y13BYHPQrHQSNjoGVXf1Ij" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/xjbx/test1/cmp.cpp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/xjbx/test1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.xjbx__test1">
+    <configuration name="1.getting_started__1.1.hello_window" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__1.1.hello_window" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__1.1.hello_window">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__1.2.hello_window_clear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__1.2.hello_window_clear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__1.2.hello_window_clear">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__2.1.hello_triangle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.1.hello_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.1.hello_triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__2.2.hello_triangle_indexed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.2.hello_triangle_indexed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.2.hello_triangle_indexed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__2.3.hello_triangle_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.3.hello_triangle_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.3.hello_triangle_exercise1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__2.4.hello_triangle_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.4.hello_triangle_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.4.hello_triangle_exercise2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__2.5.hello_triangle_exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.5.hello_triangle_exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.5.hello_triangle_exercise3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__3.1.shaders_uniform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.1.shaders_uniform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.1.shaders_uniform">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__3.2.shaders_interpolation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.2.shaders_interpolation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.2.shaders_interpolation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__3.3.shaders_class" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.3.shaders_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.3.shaders_class">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__4.1.textures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.1.textures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.1.textures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__4.2.textures_combined" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.2.textures_combined" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.2.textures_combined">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__4.3.textures_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.3.textures_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.3.textures_exercise2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__4.4.textures_exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.4.textures_exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.4.textures_exercise3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__4.5.textures_exercise4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.5.textures_exercise4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.5.textures_exercise4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__5.1.transformations" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__5.1.transformations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__5.1.transformations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__5.2.transformations_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__5.2.transformations_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__5.2.transformations_exercise2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__6.1.coordinate_systems" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.1.coordinate_systems" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.1.coordinate_systems">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__6.2.coordinate_systems_depth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.2.coordinate_systems_depth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.2.coordinate_systems_depth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__6.3.coordinate_systems_multiple" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.3.coordinate_systems_multiple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.3.coordinate_systems_multiple">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__7.1.camera_circle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.1.camera_circle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.1.camera_circle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__7.2.camera_keyboard_dt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.2.camera_keyboard_dt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.2.camera_keyboard_dt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__7.3.camera_mouse_zoom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.3.camera_mouse_zoom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.3.camera_mouse_zoom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.getting_started__7.4.camera_class" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.4.camera_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.4.camera_class">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__1.colors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__1.colors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__1.colors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__2.1.basic_lighting_diffuse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__2.1.basic_lighting_diffuse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__2.1.basic_lighting_diffuse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__2.2.basic_lighting_specular" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__2.2.basic_lighting_specular" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__2.2.basic_lighting_specular">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__3.1.materials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__3.1.materials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__3.1.materials">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__3.2.materials_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__3.2.materials_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__3.2.materials_exercise1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__4.1.lighting_maps_diffuse_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.1.lighting_maps_diffuse_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.1.lighting_maps_diffuse_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__4.2.lighting_maps_specular_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.2.lighting_maps_specular_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.2.lighting_maps_specular_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__4.3.lighting_maps_exercise4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.3.lighting_maps_exercise4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.3.lighting_maps_exercise4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__5.1.light_casters_directional" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.1.light_casters_directional" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.1.light_casters_directional">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__5.2.light_casters_point" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.2.light_casters_point" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.2.light_casters_point">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__5.3.light_casters_spot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.3.light_casters_spot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.3.light_casters_spot">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__5.4.light_casters_spot_soft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.4.light_casters_spot_soft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.4.light_casters_spot_soft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.lighting__6.multiple_lights" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__6.multiple_lights" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__6.multiple_lights">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.model_loading__1.model_loading" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="3.model_loading__1.model_loading" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="3.model_loading__1.model_loading">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__10.1.instancing_quads" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.1.instancing_quads" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.1.instancing_quads">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__10.2.asteroids" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.2.asteroids" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.2.asteroids">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__10.3.asteroids_instanced" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.3.asteroids_instanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.3.asteroids_instanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__11.anti_aliasing_offscreen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__11.anti_aliasing_offscreen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__11.anti_aliasing_offscreen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__1.1.depth_testing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__1.1.depth_testing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__1.1.depth_testing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__1.2.depth_testing_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__1.2.depth_testing_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__1.2.depth_testing_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__2.stencil_testing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__2.stencil_testing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__2.stencil_testing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__3.1.blending_discard" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__3.1.blending_discard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__3.1.blending_discard">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__3.2.blending_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__3.2.blending_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__3.2.blending_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__5.1.framebuffers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__5.1.framebuffers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__5.1.framebuffers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__5.2.framebuffers_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__5.2.framebuffers_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__5.2.framebuffers_exercise1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__6.1.cubemaps_skybox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__6.1.cubemaps_skybox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__6.1.cubemaps_skybox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__6.2.cubemaps_environment_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__6.2.cubemaps_environment_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__6.2.cubemaps_environment_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__8.advanced_glsl_ubo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__8.advanced_glsl_ubo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__8.advanced_glsl_ubo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__9.1.geometry_shader_houses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.1.geometry_shader_houses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.1.geometry_shader_houses">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__9.2.geometry_shader_exploding" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.2.geometry_shader_exploding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.2.geometry_shader_exploding">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.advanced_opengl__9.3.geometry_shader_normals" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.3.geometry_shader_normals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.3.geometry_shader_normals">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__1.advanced_lighting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__1.advanced_lighting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__1.advanced_lighting">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__2.gamma_correction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__2.gamma_correction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__2.gamma_correction">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__3.1.1.shadow_mapping_depth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.1.shadow_mapping_depth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.1.shadow_mapping_depth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__3.1.2.shadow_mapping_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.2.shadow_mapping_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.2.shadow_mapping_base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__3.1.3.shadow_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.3.shadow_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.3.shadow_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__3.2.1.point_shadows" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.2.1.point_shadows" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.2.1.point_shadows">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__3.2.2.point_shadows_soft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.2.2.point_shadows_soft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.2.2.point_shadows_soft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__4.normal_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__4.normal_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__4.normal_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__5.1.parallax_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.1.parallax_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.1.parallax_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__5.2.steep_parallax_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.2.steep_parallax_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.2.steep_parallax_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__5.3.parallax_occlusion_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.3.parallax_occlusion_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.3.parallax_occlusion_mapping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__6.hdr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__6.hdr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__6.hdr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__7.bloom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__7.bloom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__7.bloom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__8.1.deferred_shading" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__8.1.deferred_shading" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__8.1.deferred_shading">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__8.2.deferred_shading_volumes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__8.2.deferred_shading_volumes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__8.2.deferred_shading_volumes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.advanced_lighting__9.ssao" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__9.ssao" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__9.ssao">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__1.1.lighting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__1.1.lighting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__1.1.lighting">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__1.2.lighting_textured" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__1.2.lighting_textured" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__1.2.lighting_textured">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__2.1.1.ibl_irradiance_conversion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.1.1.ibl_irradiance_conversion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.1.1.ibl_irradiance_conversion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__2.1.2.ibl_irradiance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.1.2.ibl_irradiance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.1.2.ibl_irradiance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__2.2.1.ibl_specular" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.2.1.ibl_specular" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.2.1.ibl_specular">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6.pbr__2.2.2.ibl_specular_textured" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.2.2.ibl_specular_textured" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.2.2.ibl_specular_textured">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7.in_practice__1.debugging" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="7.in_practice__1.debugging" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="7.in_practice__1.debugging">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GLAD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="GLAD" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STB_IMAGE" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="STB_IMAGE" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xjbx__test1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="xjbx__test1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="xjbx__test1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.1.getting_started__1.1.hello_window" />
+      <item itemvalue="CMake Application.1.getting_started__1.2.hello_window_clear" />
+      <item itemvalue="CMake Application.1.getting_started__2.1.hello_triangle" />
+      <item itemvalue="CMake Application.1.getting_started__2.2.hello_triangle_indexed" />
+      <item itemvalue="CMake Application.1.getting_started__2.3.hello_triangle_exercise1" />
+      <item itemvalue="CMake Application.1.getting_started__2.4.hello_triangle_exercise2" />
+      <item itemvalue="CMake Application.1.getting_started__2.5.hello_triangle_exercise3" />
+      <item itemvalue="CMake Application.1.getting_started__3.1.shaders_uniform" />
+      <item itemvalue="CMake Application.1.getting_started__3.2.shaders_interpolation" />
+      <item itemvalue="CMake Application.1.getting_started__3.3.shaders_class" />
+      <item itemvalue="CMake Application.1.getting_started__4.1.textures" />
+      <item itemvalue="CMake Application.1.getting_started__4.2.textures_combined" />
+      <item itemvalue="CMake Application.1.getting_started__4.3.textures_exercise2" />
+      <item itemvalue="CMake Application.1.getting_started__4.4.textures_exercise3" />
+      <item itemvalue="CMake Application.1.getting_started__4.5.textures_exercise4" />
+      <item itemvalue="CMake Application.1.getting_started__5.1.transformations" />
+      <item itemvalue="CMake Application.1.getting_started__5.2.transformations_exercise2" />
+      <item itemvalue="CMake Application.1.getting_started__6.1.coordinate_systems" />
+      <item itemvalue="CMake Application.1.getting_started__6.2.coordinate_systems_depth" />
+      <item itemvalue="CMake Application.1.getting_started__6.3.coordinate_systems_multiple" />
+      <item itemvalue="CMake Application.1.getting_started__7.1.camera_circle" />
+      <item itemvalue="CMake Application.1.getting_started__7.2.camera_keyboard_dt" />
+      <item itemvalue="CMake Application.1.getting_started__7.3.camera_mouse_zoom" />
+      <item itemvalue="CMake Application.1.getting_started__7.4.camera_class" />
+      <item itemvalue="CMake Application.2.lighting__1.colors" />
+      <item itemvalue="CMake Application.2.lighting__2.1.basic_lighting_diffuse" />
+      <item itemvalue="CMake Application.2.lighting__2.2.basic_lighting_specular" />
+      <item itemvalue="CMake Application.2.lighting__3.1.materials" />
+      <item itemvalue="CMake Application.2.lighting__3.2.materials_exercise1" />
+      <item itemvalue="CMake Application.2.lighting__4.1.lighting_maps_diffuse_map" />
+      <item itemvalue="CMake Application.2.lighting__4.2.lighting_maps_specular_map" />
+      <item itemvalue="CMake Application.2.lighting__4.3.lighting_maps_exercise4" />
+      <item itemvalue="CMake Application.2.lighting__5.1.light_casters_directional" />
+      <item itemvalue="CMake Application.2.lighting__5.2.light_casters_point" />
+      <item itemvalue="CMake Application.2.lighting__5.3.light_casters_spot" />
+      <item itemvalue="CMake Application.2.lighting__5.4.light_casters_spot_soft" />
+      <item itemvalue="CMake Application.2.lighting__6.multiple_lights" />
+      <item itemvalue="CMake Application.3.model_loading__1.model_loading" />
+      <item itemvalue="CMake Application.4.advanced_opengl__1.1.depth_testing" />
+      <item itemvalue="CMake Application.4.advanced_opengl__1.2.depth_testing_view" />
+      <item itemvalue="CMake Application.4.advanced_opengl__10.1.instancing_quads" />
+      <item itemvalue="CMake Application.4.advanced_opengl__10.2.asteroids" />
+      <item itemvalue="CMake Application.4.advanced_opengl__10.3.asteroids_instanced" />
+      <item itemvalue="CMake Application.4.advanced_opengl__11.anti_aliasing_offscreen" />
+      <item itemvalue="CMake Application.4.advanced_opengl__2.stencil_testing" />
+      <item itemvalue="CMake Application.4.advanced_opengl__3.1.blending_discard" />
+      <item itemvalue="CMake Application.4.advanced_opengl__3.2.blending_sort" />
+      <item itemvalue="CMake Application.4.advanced_opengl__5.1.framebuffers" />
+      <item itemvalue="CMake Application.4.advanced_opengl__5.2.framebuffers_exercise1" />
+      <item itemvalue="CMake Application.4.advanced_opengl__6.1.cubemaps_skybox" />
+      <item itemvalue="CMake Application.4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+      <item itemvalue="CMake Application.4.advanced_opengl__8.advanced_glsl_ubo" />
+      <item itemvalue="CMake Application.4.advanced_opengl__9.1.geometry_shader_houses" />
+      <item itemvalue="CMake Application.4.advanced_opengl__9.2.geometry_shader_exploding" />
+      <item itemvalue="CMake Application.4.advanced_opengl__9.3.geometry_shader_normals" />
+      <item itemvalue="CMake Application.5.advanced_lighting__1.advanced_lighting" />
+      <item itemvalue="CMake Application.5.advanced_lighting__2.gamma_correction" />
+      <item itemvalue="CMake Application.5.advanced_lighting__3.1.1.shadow_mapping_depth" />
+      <item itemvalue="CMake Application.5.advanced_lighting__3.1.2.shadow_mapping_base" />
+      <item itemvalue="CMake Application.5.advanced_lighting__3.1.3.shadow_mapping" />
+      <item itemvalue="CMake Application.5.advanced_lighting__3.2.1.point_shadows" />
+      <item itemvalue="CMake Application.5.advanced_lighting__3.2.2.point_shadows_soft" />
+      <item itemvalue="CMake Application.5.advanced_lighting__4.normal_mapping" />
+      <item itemvalue="CMake Application.5.advanced_lighting__5.1.parallax_mapping" />
+      <item itemvalue="CMake Application.5.advanced_lighting__5.2.steep_parallax_mapping" />
+      <item itemvalue="CMake Application.5.advanced_lighting__5.3.parallax_occlusion_mapping" />
+      <item itemvalue="CMake Application.5.advanced_lighting__6.hdr" />
+      <item itemvalue="CMake Application.5.advanced_lighting__7.bloom" />
+      <item itemvalue="CMake Application.5.advanced_lighting__8.1.deferred_shading" />
+      <item itemvalue="CMake Application.5.advanced_lighting__8.2.deferred_shading_volumes" />
+      <item itemvalue="CMake Application.5.advanced_lighting__9.ssao" />
+      <item itemvalue="CMake Application.6.pbr__1.1.lighting" />
+      <item itemvalue="CMake Application.6.pbr__1.2.lighting_textured" />
+      <item itemvalue="CMake Application.6.pbr__2.1.1.ibl_irradiance_conversion" />
+      <item itemvalue="CMake Application.6.pbr__2.1.2.ibl_irradiance" />
+      <item itemvalue="CMake Application.6.pbr__2.2.1.ibl_specular" />
+      <item itemvalue="CMake Application.6.pbr__2.2.2.ibl_specular_textured" />
+      <item itemvalue="CMake Application.7.in_practice__1.debugging" />
+      <item itemvalue="CMake Application.GLAD" />
+      <item itemvalue="CMake Application.STB_IMAGE" />
+      <item itemvalue="CMake Application.xjbx__test1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9961ac7-5692-49e3-86e3-96a7da9de09a" name="Default Changelist" comment="" />
+      <created>1582452273348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582452273348</updated>
+      <workItem from="1582452276374" duration="161000" />
+      <workItem from="1582452499269" duration="275000" />
+      <workItem from="1582545999603" duration="1485000" />
+      <workItem from="1583059647146" duration="4502000" />
+      <workItem from="1583155935369" duration="2870000" />
+      <workItem from="1583159677979" duration="414000" />
+      <workItem from="1583219398817" duration="47000" />
+      <workItem from="1583242713816" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.fs" />
+  </component>
+</project>
